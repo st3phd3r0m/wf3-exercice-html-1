@@ -1,0 +1,17 @@
+li{
+    color:#b6127f;
+}
+
+.texte-vert{
+    color:green;
+}
+
+#titre{
+    text-decoration:underline overline wavy red;
+    color:rgb(86, 15, 179);
+}
+
+h1{
+    text-decoration: none;  
+    /*Cette propriété ne sera pas prise en compte, car les selecteurs identifiants sont prioritaires  */
+}
